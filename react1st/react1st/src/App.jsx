@@ -19,8 +19,15 @@
 const Netcard = ()=> {
   const name = 'queen of tears'
   let age = 19
-  let canWatch = 'Not Available'
-  if(age >= 18) canWatch = 'Watch Now'
+  // let canWatch = 'Not Available'
+  // if(age >= 18) canWatch = 'Watch Now'
+  
+  const fourStep = ()=>{
+    if(age >= 18) return 'Watch now'
+    return 'Not avail'
+  }
+  
+  
   
   const genral = ()=>{
     const r = 'romantic'
@@ -63,7 +70,10 @@ const Netcard = ()=> {
         {/* <button>{age > 18 ? 'watch now' : 'not available'}</button> */}
         
         {/* method 3 */}
-        <button>{canWatch}</button>
+        {/* <button>{canWatch}</button> */}
+        
+        {/* method 4 */}
+        <button>{fourStep()}</button>
         
     </div>
     

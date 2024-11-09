@@ -1,4 +1,8 @@
-const Netcard = ()=> {
+
+
+
+ const Netcard = ()=> {
+    
     const name = 'queen of tears'
     let age = 19
     // let canWatch = 'Not Available'
@@ -63,3 +67,14 @@ const Netcard = ()=> {
   }
   
   export default Netcard;
+
+
+
+export const Head = ()=>{
+    return <h1>I m header</h1>
+}
+
+export const Footer = ()=>{
+    return <h2>i am Footer</h2>
+}
+

@@ -1,18 +1,18 @@
 
 
-const CardDetails = (props)=>{
-    const {e} = props
+const CardDetails = ({e})=>{
+    const {id,img_url, name, rating, description, cast, genre, watch_url } = e;
     return(
         <li >
         <div>
-            <img src={e.img_url} alt="" width="40%" height="40%" />
+            <img src={img_url} alt="" width="40%" height="40%" />
           </div>
-          <h2>Name: {e.name}</h2>
-          <h3>Rating:{e.rating}</h3>
-          <p>Summary: {e.description}</p>
-          <p>Gerenal : {e.genre}</p>
-          <p>Cast: {e.cast}</p>
-          <a href={e.watch_url} target="_blank">
+          <h2>Name: {name}</h2>
+          <h3>Rating:{rating}</h3>
+          <p>Summary: {description}</p>
+          <p>Gerenal : {genre}</p>
+          <p>Cast: {cast}</p>
+          <a href={watch_url} target="_blank">
             <button>Watch Now</button></a>          
           
           

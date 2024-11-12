@@ -14,7 +14,7 @@ const CardDetails = ({e})=>{
           <p>Cast: {cast}</p>
           <a href={watch_url} target="_blank">
             <button>Watch Now</button></a>    
-            <p>aaj ni ho paya, kal bhi muskil hai, I,ll try to  </p>      
+            <p>aaj ni ho paya, kal bhi muskil hai, I,ll try ki jitna pending hai sara ek din me cover krne ka   </p>      
           
           
       </li>

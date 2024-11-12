@@ -13,7 +13,8 @@ const CardDetails = ({e})=>{
           <p>Gerenal : {genre}</p>
           <p>Cast: {cast}</p>
           <a href={watch_url} target="_blank">
-            <button>Watch Now</button></a>          
+            <button>Watch Now</button></a>    
+            <p></p>      
           
           
       </li>

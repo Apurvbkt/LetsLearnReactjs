@@ -17,6 +17,7 @@ const CardDetails = ({e})=>{
             <p>aaj ni ho paya, kal bhi muskil hai, I,ll try ki jitna pending hai sara ek din me cover krne ka 
                 
                 aaj  bhi rst, aaj bhi ni hua, kal se diet and pdhai suru, wo bhi phir se serious wle </p>      
+                <p> no more tme pass</p>
           
           
       </li>

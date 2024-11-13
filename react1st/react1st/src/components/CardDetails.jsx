@@ -16,7 +16,7 @@ const CardDetails = ({e})=>{
             <button>Watch Now</button></a>    
             <p>aaj ni ho paya, kal bhi muskil hai, I,ll try ki jitna pending hai sara ek din me cover krne ka 
                 
-                aaj   </p>      
+                aaj  bhi rst, aaj bhi ni hua </p>      
           
           
       </li>

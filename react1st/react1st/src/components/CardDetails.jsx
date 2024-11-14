@@ -19,7 +19,7 @@ const CardDetails = ({e})=>{
                 aaj  bhi rst, aaj bhi ni hua, kal se diet and pdhai suru, wo bhi phir se serious wle </p>      
                 <p> no more tme pass</p>
                 <p>good night </p>
-                <p>sorry for delay</p>
+                <p>sorry for delay aaj bhi ni hua</p>
                 
           
           

@@ -22,6 +22,7 @@ const CardDetails = ({e})=>{
                 <p>sorry for delay aaj bhi ni hua, kal se for sure pdhai suru</p>
                 <p> coz of work, aaj bhi ni ho paya, I dont know till this week</p>
                 par karunga jarur for sure
+                <h1>Good night</h1>
           
           
       </li>

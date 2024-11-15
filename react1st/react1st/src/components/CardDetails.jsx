@@ -20,7 +20,7 @@ const CardDetails = ({e})=>{
                 <p> no more tme pass</p>
                 <p>good night </p>
                 <p>sorry for delay aaj bhi ni hua, kal se for sure pdhai suru</p>
-                <p> coz of work, aaj bhi ni ho paya</p>
+                <p> coz of work, aaj bhi ni ho paya, I dont know till this week</p>
                 
           
           

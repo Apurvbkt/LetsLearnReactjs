@@ -14,16 +14,7 @@ const CardDetails = ({e})=>{
           <p>Cast: {cast}</p>
           <a href={watch_url} target="_blank">
             <button>Watch Now</button></a>    
-            <p>aaj ni ho paya, kal bhi muskil hai, I,ll try ki jitna pending hai sara ek din me cover krne ka 
-                
-                aaj  bhi rst, aaj bhi ni hua, kal se diet and pdhai suru, wo bhi phir se serious wle </p>      
-                <p> no more tme pass</p>
-                <p>good night </p>
-                <p>sorry for delay aaj bhi ni hua, kal se for sure pdhai suru</p>
-                <p> coz of work, aaj bhi ni ho paya, I dont know till this week</p>
-                par karunga jarur for sure
-                <h1>Good night</h1>
-          
+            
           
       </li>
       ) 

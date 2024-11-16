@@ -1,5 +1,5 @@
 
-export function Profile(){
+function Profile(){
     return(
         <>
         <h1>Profile Card</h1>
@@ -46,20 +46,18 @@ export function Profile(){
         </>
     )   
 }
+export default Profile
 
 
-
-function ProfileCard(props){
+ 
+export function ProfileCard(props){
     
     return(
         <>
         <h2>name : {props.name}</h2>
         <p>Age : {props.age}</p>
         <p>{props.greetings} </p>
-        <div></div
-        >
+        <div></div>
         </>
     )
 }
-
-{/* export default ProfileCard */}

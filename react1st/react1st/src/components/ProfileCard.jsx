@@ -43,6 +43,27 @@ function Profile(){
         
         
         
+        <ProfileCard
+        name = 'RAM'
+        age = {100}
+        greetings = {
+            <div>
+                <strong>
+                    Hi RAM, have a wonderful day
+                </strong>
+            </div>
+        }
+        
+        
+        >
+
+        <p> Hobbies : coading, talking</p>
+        <button>SUBMIT</button>
+                    
+        </ProfileCard>
+        
+        
+        
         </>
     )   
 }
@@ -54,10 +75,12 @@ export function ProfileCard(props){
     
     return(
         <>
+        
+        
         <h2>name : {props.name}</h2>
         <p>Age : {props.age}</p>
         <p>{props.greetings} </p>
-        <div></div>
+        <div>{props.children}</div>
         </>
     )
 }

@@ -3,6 +3,45 @@ export function Profile(){
     return(
         <>
         <h1>Profile Card</h1>
+        <ProfileCard
+        name = 'Alice'
+        age = {25}
+        greetings = {
+            <div>
+                <strong>
+                    Hi alice, have a wonderful day
+                </strong>
+            </div>
+        }
+        
+        
+        >
+
+        <p> Hobbies : Reading, writing</p>
+        <button>SUBMIT</button>
+                    
+        </ProfileCard>
+        
+        <ProfileCard
+        name = 'RAM'
+        age = {100}
+        greetings = {
+            <div>
+                <strong>
+                    Hi RAM, have a wonderful day
+                </strong>
+            </div>
+        }
+        
+        
+        >
+
+        <p> Hobbies : coading, talking</p>
+        <button>SUBMIT</button>
+                    
+        </ProfileCard>
+        
+        
         
         </>
     )   

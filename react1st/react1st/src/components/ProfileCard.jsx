@@ -69,7 +69,7 @@ function Profile(){
         greetings = {
             <div>
                 <strong>
-                    Hi test , have a wonderful day
+                    Hi test , have a wonderful day , baaki ka kal krunga
                 </strong>
             </div>
         }

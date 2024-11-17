@@ -63,6 +63,25 @@ function Profile(){
                     
         </ProfileCard>
         
+        <ProfileCard
+        name = 'TEst'
+        age = {100}
+        greetings = {
+            <div>
+                <strong>
+                    Hi RAM, have a wonderful day
+                </strong>
+            </div>
+        }
+        
+        
+        >
+
+        <p> Hobbies : coading, talking</p>
+        <button>SUBMIT</button>
+                    
+        </ProfileCard>
+        
         
         
         </>

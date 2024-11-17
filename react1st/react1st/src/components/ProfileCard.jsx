@@ -29,6 +29,7 @@ function Profile(){
             <div>
                 <strong>
                     Hi RAM, have a wonderful day
+                    
                 </strong>
             </div>
         }

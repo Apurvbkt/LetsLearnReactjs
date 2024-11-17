@@ -69,7 +69,7 @@ function Profile(){
         greetings = {
             <div>
                 <strong>
-                    Hi RAM, have a wonderful day
+                    Hi test , have a wonderful day
                 </strong>
             </div>
         }

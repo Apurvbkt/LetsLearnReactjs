@@ -72,7 +72,7 @@ function Profile(){
                     Hi test , have a wonderful day , baaki ka kal krunga, good night
                 </strong>
                 <strong>
-                    aaj thak gya hun
+                    aaj thak gya hun kla
                 </strong>
             </div>
         }

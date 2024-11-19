@@ -84,7 +84,28 @@ function Profile(){
         <button>SUBMIT</button>
                     
         </ProfileCard>
+
+        <ProfileCard
+        name = 'TEst'
+        age = {100}
+        greetings = {
+            <div>
+                <strong>
+                    Hi test , have a wonderful day , baaki ka kal krunga, good night
+                </strong>
+                <strong>
+                    aaj thak gya hun kla krunga aaj ni ho paya coz of puja 
+                </strong>
+            </div>
+        }
         
+        
+        >
+
+        <p> Hobbies : coading, talking</p>
+        <button>SUBMIT</button>
+                    
+        </ProfileCard>        
         
         
         </>

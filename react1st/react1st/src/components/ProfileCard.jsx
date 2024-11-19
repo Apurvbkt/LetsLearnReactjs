@@ -94,7 +94,7 @@ function Profile(){
                     Hi test , have a wonderful day , baaki ka kal krunga, good night
                 </strong>
                 <strong>
-                   aaj last day puja ka  , 
+                   aaj last day puja ka  , kal se nothing so kal se pdhai
                 </strong>
             </div>
         }

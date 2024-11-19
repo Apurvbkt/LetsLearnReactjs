@@ -1,7 +1,7 @@
 
 function Profile(){
     return(
-        <>
+        <p>
         <h1>Profile Card</h1>
         <ProfileCard
         name = 'Alice'

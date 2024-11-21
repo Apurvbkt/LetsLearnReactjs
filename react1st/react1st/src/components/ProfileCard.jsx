@@ -104,7 +104,7 @@ function Profile(){
 
         <p> Hobbies : coading, talking
             
-            ssj ni kal se seriouse
+            ssj ni kal se seriouse, back on track
         </p>
         <button>SUBMIT</button>
                     

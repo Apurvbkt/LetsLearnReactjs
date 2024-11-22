@@ -10,7 +10,9 @@ function Profile() {
                 greetings={
                     <div>
                         <strong>Hi Alice, have a wonderful day!</strong>
-                        <p>gonna dlt social media, and focus on my carer</p><h2></h2>
+                        <p>gonna dlt social media, and focus on my carer</p><h2>winter era start
+                            good night
+                        </h2>
                     </div>
                 }
             >

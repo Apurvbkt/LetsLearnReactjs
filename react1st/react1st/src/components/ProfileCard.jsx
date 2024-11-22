@@ -10,7 +10,7 @@ function Profile() {
                 greetings={
                     <div>
                         <strong>Hi Alice, have a wonderful day!</strong>
-                        <p></p>
+                        <p>gonna dlt social media</p>
                     </div>
                 }
             >

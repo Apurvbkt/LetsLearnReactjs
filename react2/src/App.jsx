@@ -1,4 +1,5 @@
 
+// import React from 'react';
 import './App.css'
 
 function App() {
@@ -26,11 +27,20 @@ function App() {
         Click on the Vite and React logos to learn more
       </p> */}
       
-      <h1>hello, <br /> let&apos;s start</h1>
+      {/* <h1>hello, <br /> let&apos;s start</h1> */}
+      
+      <div>
+        <img src="../public/vite.svg" alt="" />
+      </div>
+      <h2>Name: Queen Of Tears</h2>
+      <h3>Rating: 8.2</h3>
+      <p>Summary: </p>
       
       
     </>
   )
 }
+
+// console.log(React.createElement('h1', null, 'hello, let&apos;s start'));                   
 
 export default App

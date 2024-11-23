@@ -26,7 +26,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p> */}
       
-      <h1>hello, <br /> let's start</h1>
+      <h1>hello, <br /> let&apos;s start</h1>
       
       
     </>

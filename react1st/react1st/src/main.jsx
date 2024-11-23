@@ -6,7 +6,7 @@ import Profile from './components/ProfileCard.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/* <App /> */}
-    <Profile/>
+    <App />
+    
   </StrictMode>,
 )

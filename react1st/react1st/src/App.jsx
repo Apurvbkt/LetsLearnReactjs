@@ -1,5 +1,5 @@
  import React from "react"
- import Netcard from "./components/Netcard"
+//  import Netcard from "./components/Netcard"
 //  import { head } from "./components/Netcard"
  
  export const App = ()=>{
@@ -7,7 +7,7 @@
     <React.Fragment>
       
     
-      <Netcard/>
+     <h1>hello</h1>
       
     
     </React.Fragment>

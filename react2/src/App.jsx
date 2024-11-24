@@ -35,7 +35,8 @@ function App() {
       <h2>Name: Queen Of Tears</h2>
       <h3>Rating: 8.2</h3>
       <p>Summary: </p>
-      
+        <h1>React #5 video completed</h1>  
+        <h1></h1>
       
     </>
   )

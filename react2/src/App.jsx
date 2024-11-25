@@ -30,13 +30,13 @@ function App() {
       {/* <h1>hello, <br /> let&apos;s start</h1> */}
       
       <div>
-        <img src="../public/vite.svg" alt="" />
+        <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
       </div>
       <h2>Name: Queen Of Tears</h2>
       <h3>Rating: 8.2</h3>
       <p>Summary: </p>
-        <h1>React #5 video completed</h1>  
-        <h1>aaj rest coz sunday, kal se back to study</h1>
+        <h1 > <b> React #5 video completed  </b></h1>  
+        
       
     </>
   )

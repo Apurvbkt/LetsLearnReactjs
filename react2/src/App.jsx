@@ -59,6 +59,13 @@ const CardDtl = ()=>{
       <h3>Rating: 8.2</h3>
       <p>Summary: </p>
         <h1 > <b> React #6 video completed  </b></h1> 
+        
+        <ValueData/>
     </>
   )
+}
+
+const ValueData = ()=>{
+  const value = 'hello world';
+  return <h2>{value}</h2>
 }

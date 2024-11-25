@@ -50,22 +50,32 @@ export default App
 
 //component created
 const CardDtl = ()=>{
+  const name = 'Cat king';
+  const rating = 8.5;
+  const sum = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, iure."
   return(
     <>
      <div>
         <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
       </div>
-      <h2>Name: cat king</h2>
-      <h3>Rating: 8.2</h3>
-      <p>Summary: </p>
+      <h2>Name: {name}</h2>
+      <h3>Rating: {rating}</h3>
+      <p>Summary: {sum} </p>
         <h1 > <b> React #6 video completed  </b></h1> 
         
-        <ValueData/>
+        
+        {/* <ValueData/> */}
     </>
   )
 }
 
-const ValueData = ()=>{
-  const value = 'hello world';
-  return <h2>{value}</h2>
-}
+// const ValueData = ()=>{
+//   const value = 'hello world';
+  
+//   return( 
+//   <>  <h2>{value}</h2>
+//       <h3>the result: {1+2+6}</h3>
+// </>
+    
+//   )
+// }

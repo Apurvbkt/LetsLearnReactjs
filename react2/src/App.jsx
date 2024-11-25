@@ -45,3 +45,20 @@ function App() {
 // console.log(React.createElement('h1', null, 'hello, let&apos;s start'));                   
 
 export default App
+
+
+
+//component created
+const cardD = ()=>{
+  return(
+    <>
+     <div>
+        <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
+      </div>
+      <h2>Name: Queen Of Tears</h2>
+      <h3>Rating: 8.2</h3>
+      <p>Summary: </p>
+        <h1 > <b> React #6 video completed  </b></h1> 
+    </>
+  )
+}

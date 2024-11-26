@@ -29,15 +29,18 @@ function App() {
       
       {/* <h1>hello, <br /> let&apos;s start</h1> */}
       
-      <div>
+      {/* <div>
         <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
       </div>
       <h2>Name: Queen Of Tears</h2>
       <h3>Rating: 8.2</h3>
       <p>Summary: </p>
-        <h1 > <b> React #5 video completed  </b></h1>  
+        <h1 > <b> React #5 video completed  </b></h1>   */}
         
       <CardDtl/>
+      <CardDtl/>
+      <CardDtl/>
+      
     </>
   )
 }
@@ -53,21 +56,47 @@ const CardDtl = ()=>{
   const name = 'Cat king';
   const rating = 8.5;
   const sum = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, iure."
-  return(
-    <>
-     <div>
-        <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
-      </div>
-      <h2>Name: {name}</h2>
-      <h3>Rating: {rating}</h3>
-      <p>Summary: {sum} </p>
-        <h1 > <b> React #6 video completed  </b></h1> 
-        <h1 > <b> React #8 video completed  </b></h1> 
+  let age = 19;
+  
+  if(age < 18){
+    
+    return(
+      <>
+       <div>
+          <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
+        </div>
+        <h2>Name: {name}</h2>
+        <h3>Rating: {rating}</h3>
+        <p>Summary: {sum} </p>
+        <button>ant watch</button>
         
+          <h1 > <b> React #6 video completed  </b></h1> 
+          <h1 > <b> React #8 video completed  </b></h1> 
+          
+          
+          {/* <ValueData/> */}
+      </>
+    )
+  }else{
+    return(
+      <>
+       <div>
+          <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
+        </div>
+        <h2>Name: {name}</h2>
+        <h3>Rating: {rating}</h3>
+        <p>Summary: {sum} </p>
+        <button>watch now</button>
         
-        {/* <ValueData/> */}
-    </>
-  )
+          <h1 > <b> React #6 video completed  </b></h1> 
+          <h1 > <b> React #8 video completed  </b></h1> 
+          
+          
+          {/* <ValueData/> */}
+      </>
+    )
+  }
+  
 }
 
 // const ValueData = ()=>{

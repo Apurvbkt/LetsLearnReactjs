@@ -1,4 +1,4 @@
-import { CardDtl } from './components/CardDtl'
+import  CardDtl  from './components/CardDtl'
 // import React from 'react';
 import './App.css'
 

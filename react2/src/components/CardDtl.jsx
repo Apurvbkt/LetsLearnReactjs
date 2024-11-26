@@ -1,4 +1,4 @@
-export const CardDtl = ()=>{
+ const CardDtl = ()=>{
     const name = 'Cat king';
     const rating = 8.5;
     const sum = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, iure."
@@ -15,7 +15,7 @@ export const CardDtl = ()=>{
       return(
         <>
          <div>
-            <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "40%" />
+            <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  height="40%" width= "30%" />
           </div>
           <h2>Name: {name}</h2>
           <h3>Rating: {rating}</h3>
@@ -34,3 +34,5 @@ export const CardDtl = ()=>{
     
     
   }
+  
+  export default CardDtl

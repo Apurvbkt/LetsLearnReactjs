@@ -26,6 +26,8 @@
           
             <h1 > <b> React #6 video completed  </b></h1> 
             <h1 > <b> React #8 video completed  </b></h1> 
+            <h1 > <b> React #11 video completed  </b></h1> 
+            
             
             
             {/* <ValueData/> */}

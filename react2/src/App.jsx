@@ -26,9 +26,14 @@ const CardDtl = ()=>{
   const rating = 8.5;
   const sum = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, iure."
   let age = 149;
-  let canWatch = 'not avail';
-  if(age >= 18) canWatch = 'watch now'
- 
+  // let canWatch = 'not avail';
+  // if(age >= 18) canWatch = 'watch now'
+  const canWatch = ()=>{
+    
+    if(age >=18) return('Watch now')
+    return 'not avail'
+    
+  }
     
     return(
       <>
@@ -39,7 +44,8 @@ const CardDtl = ()=>{
         <h3>Rating: {rating}</h3>
         <p>Summary: {sum} </p>
         <button>{age >= 18 ? 'watch now' : 'not watch'}  </button>
-        <button>{canWatch}</button>
+        {/* <button>{canWatch}</button> */}
+        <button>{canWatch()}</button>
         
           <h1 > <b> React #6 video completed  </b></h1> 
           <h1 > <b> React #8 video completed  </b></h1> 

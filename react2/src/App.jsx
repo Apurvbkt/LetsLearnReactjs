@@ -8,8 +8,6 @@ function App() {
     <>
              
       <CardDtl/>
-      <CardDtl/>
-      <CardDtl/>
       
     </>
   )

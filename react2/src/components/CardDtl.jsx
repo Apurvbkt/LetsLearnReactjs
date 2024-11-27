@@ -4,12 +4,13 @@ const CardDtl = ()=>{
       return(
         <>
          <div>
-            <img src= {} alt=""  height="40%" width= "30%" />
+            <img src= {seriesData[0].img_url} alt=""  height="40%" width= "30%" />
           </div>
-          <h2>Name: {}</h2>
-          <h3>Rating: {}</h3>
-          <p>Summary: {} </p>
-          <button>{}  </button>
+          <h2>Name: {seriesData[0].name}</h2>
+          <h3>Rating: {seriesData[0].rating}</h3>
+          <p>Summary: {seriesData[0].description} </p>
+          <p>Genre: {seriesData[0].genre} </p>
+          <button>watch now {seriesData[0].watch_url}  </button>
           
           
           {/* <button>{canWatch}</button> */}

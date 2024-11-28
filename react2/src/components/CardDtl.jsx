@@ -40,7 +40,7 @@ const CardDtl = ()=>{
             
             <h1 > <b> React #11 video completed  </b></h1>  
             <h1 > <b> React #12 video completed  </b></h1>  
-            <h1></h1>
+            <h1> </h1>
             
             
             

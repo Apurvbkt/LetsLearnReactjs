@@ -45,7 +45,7 @@ const CardDtl = ()=>{
             good night for now
             
             from dec 1 I will start my jurny again
-            
+            good noght
             
             {/* <ValueData/> */}
         </ul>

@@ -44,7 +44,7 @@ const CardDtl = ()=>{
              better to rest today coz aaj bhi bahut hectic day tha, thoda stable hone do i'll cover every thing
             good night for now
             
-            from dec 1 I will
+            from dec 1 I will start my jurny again
             
             
             {/* <ValueData/> */}

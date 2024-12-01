@@ -41,7 +41,7 @@ const CardDtl = ()=>{
             <h1 > <b> React #11 video completed  </b></h1>  
             <h1 > <b> React #12 video completed  </b></h1>  
             <h1>kal 13 wli video complete krni hai, baaki ka dheere dheere speed up krunga </h1>
-            
+            good night 
             
             {/* <ValueData/> */}
         </ul>

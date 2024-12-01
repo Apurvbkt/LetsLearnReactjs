@@ -40,6 +40,7 @@ const CardDtl = ()=>{
             
             <h1 > <b> React #11 video completed  </b></h1>  
             <h1 > <b> React #12 video completed  </b></h1>  
+            <h1>kal 12 wli video </h1>
             
             
             {/* <ValueData/> */}

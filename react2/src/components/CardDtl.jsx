@@ -40,12 +40,7 @@ const CardDtl = ()=>{
             
             <h1 > <b> React #11 video completed  </b></h1>  
             <h1 > <b> React #12 video completed  </b></h1>  
-            <h1> aaj ni ho paya, coz mummy kla patna jari hai, and unke sath shopping and sara sab kuch buy krne gye the and sara saaman pack krne me time chale gya. To jo chut gya wo kal cover krunga, thank you good night</h1>
-             better to rest today coz aaj bhi bahut hectic day tha, thoda stable hone do i'll cover every thing
-            good night for now
             
-            from dec 1 I will start my jurny again
-            good night
             
             {/* <ValueData/> */}
         </ul>

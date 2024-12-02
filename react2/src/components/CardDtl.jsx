@@ -6,7 +6,7 @@ const CardDtl = ()=>{
           { 
             seriesData.map((e) =>{
              
-            <SeriseCard e = {e}/>
+            return  <SeriseCard key= {e.id} e = {e}/>
               
             })
           }
@@ -14,7 +14,7 @@ const CardDtl = ()=>{
           
           
           
-          
+            
           
           {/* <button>{canWatch}</button> */}
           {/* <button>{canWatch()}</button> */}

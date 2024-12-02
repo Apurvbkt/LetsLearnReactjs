@@ -2,7 +2,7 @@
     
     return(
                 
-        <li key={e.e.id}>
+        <li>
          <div>
             <img src= {e.e.img_url} alt=""  height="40%" width= "30%" />
           </div>

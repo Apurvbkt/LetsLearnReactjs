@@ -22,12 +22,13 @@ function Profile(){
 export default Profile
 
 function ProfileCard(props){
+    const {name, age, greeting, children} = props
     return(
         <>
-        <p>Name : {props.name}</p>
-        <p>Age : {props.age}</p>
-        <>{props.greeting}</>
-        {props.childrenpush 5}
+        <p>Name : {name}</p>
+        <p>Age : {age}</p>
+        <>{greeting}</>
+        {children }
         
         </>
     )

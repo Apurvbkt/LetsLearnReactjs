@@ -18,3 +18,15 @@ function Profile(){
         </div>
     )
 }
+
+export default Profile
+
+function ProfileCard(){
+    return(
+        <>
+        <p>Name : {Props.name}</p>
+        <p>Age : {Props.age}</p>
+        
+        </>
+    )
+}

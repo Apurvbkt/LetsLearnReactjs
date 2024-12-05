@@ -27,10 +27,15 @@
   .grid-three--cols {
     grid-template-columns: repeat(3, 1fr);
   }  
-
+  
 .container .card-container{
   text-align: center;
 }
 img{
   width: 100%;
+}
+
+.li{
+  /* border: 1px solid white;  */
+  box-shadow: rgba(236, 233, 233, 0.24) 0px 3px 8px;
 }

@@ -5,7 +5,7 @@
     
     return(
                 
-        <li>
+        <li className="li">
          <div>
             <img src= {img_url} alt=""  height="40%" width= "30%" />
           </div>

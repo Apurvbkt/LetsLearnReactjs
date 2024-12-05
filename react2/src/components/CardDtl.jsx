@@ -1,6 +1,6 @@
 import seriesData from '../api/netflixData.json'
 import { SeriseCard } from './SeriseCard'
-import '../index.css'
+// import '../index.css'
 
 const CardDtl = ()=>{
       return(

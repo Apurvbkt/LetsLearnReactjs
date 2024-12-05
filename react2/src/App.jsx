@@ -6,7 +6,7 @@ function App() {
 
   return (
     <section className='container'>
-             
+             <h1 className='card-container'>List of best netflix show</h1>
       <CardDtl/>
       
       

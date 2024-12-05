@@ -4,7 +4,7 @@ import { SeriseCard } from './SeriseCard'
 
 const CardDtl = ()=>{
       return(
-        <ul className='grid'>
+        <ul className='grid grid-three--cols'>
           { 
             seriesData.map((e) =>{
              

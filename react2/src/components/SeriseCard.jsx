@@ -15,6 +15,7 @@
           <p>Cast: {cast}</p>
           <p>Genre: {genre} </p>
           <a href={watch_url} target='_blank'>click to watch</a>
+          
           <br />
           <button>watch now   </button>
           

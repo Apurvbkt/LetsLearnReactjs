@@ -23,7 +23,7 @@
           aaj bhi rest kyuki aaj man ni krra hai kal se krunga, aaj mind thoda disturb hai 
           
           weekend ko aaram , week days ko kam 
-          baaki ka mai 
+          baaki ka mai, kal krunga
           </li>
                 
               )

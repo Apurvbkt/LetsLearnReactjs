@@ -24,7 +24,7 @@
           
           weekend ko aaram , week days ko kam 
           baaki ka mai, kal krunga, good night, not in good mood, karunga pakka karunga, thoda time ni mil para hai , but for sure krunga. for now good night
-          every thing is going not up to th
+          every thing is going not up to the plan
           </li>
                 
               )

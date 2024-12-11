@@ -25,7 +25,7 @@
           weekend ko aaram , week days ko kam 
           baaki ka mai, kal krunga, good night, not in good mood, karunga pakka karunga, thoda time ni mil para hai , but for sure krunga. for now good night
           every thing is going not up to the plan, sayd thoda break lena he best hoga, kyuki sara kam khtm krte he aaram se coding krnge , good night 
-          dadu expire, ab manhara jana padega
+          dadu expire, ab manhara jana padega, to aaj kl push krna thoda dikkt hai 
           
           </li>
                 

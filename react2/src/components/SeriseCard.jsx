@@ -27,6 +27,8 @@
           every thing is going not up to the plan, sayd thoda break lena he best hoga, kyuki sara kam khtm krte he aaram se coding krnge , good night 
           dadu expire, ab manhara jana padega, to aaj kl push krna thoda dikkt hai , baaki mai jaisa hoga waisa mai bolunga
           krta hun , avi thoda baitha hun, ghr aake krunga aaram se, thank you, for understanding, aaj maine adi se baat krra busness ke bare let's take a risk and roll, agar chal jata hai business to well and good, and agar ni chalta hai, to back to kam kaaj, hoping hmlog ache se kr paye sab kuch. bye goodnight
+          
+          as your know
           </li>
                 
               )

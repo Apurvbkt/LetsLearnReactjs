@@ -29,6 +29,8 @@
           krta hun , avi thoda baitha hun, ghr aake krunga aaram se, thank you, for understanding, aaj maine adi se baat krra busness ke bare let's take a risk and roll, agar chal jata hai business to well and good, and agar ni chalta hai, to back to kam kaaj, hoping hmlog ache se kr paye sab kuch. bye goodnight
           
           as your know, pdhai ke time wla drama, har bar ka wohi hai, pata ni aise kaise chalega, seriouly I freaked out. ye sab drama se chutti mile to jake pdhai ho. see u all tomorrow . Bye good night
+          
+          we went for a movie today
           </li>
                 
               )

@@ -31,7 +31,7 @@
           as your know, pdhai ke time wla drama, har bar ka wohi hai, pata ni aise kaise chalega, seriouly I freaked out. ye sab drama se chutti mile to jake pdhai ho. see u all tomorrow . Bye good night
           
           we went for a movie today, and also I missed one class, this time my attendance will go down, coz already missed my two classes.
-          also it's an amazing day, mama ji brought new phone, and that is one plus 9pro
+          also it's an amazing day, mama ji brought new phone, and that is one plus 9pro. It was my fav phone in 2021, but unfortunatly mere kismat me nahi tha
           </li>
                 
               )

@@ -30,7 +30,7 @@
           
           as your know, pdhai ke time wla drama, har bar ka wohi hai, pata ni aise kaise chalega, seriouly I freaked out. ye sab drama se chutti mile to jake pdhai ho. see u all tomorrow . Bye good night
           
-          we went for a movie today
+          we went for a movie today, and also I missed one class
           </li>
                 
               )

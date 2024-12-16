@@ -33,7 +33,7 @@
           we went for a movie today, and also I missed one class, this time my attendance will go down, coz already missed my two classes.
           also it's an amazing day, mama ji brought new phone, and that is one plus 9pro. It was my fav phone in 2021, but unfortunatly mere kismat me nahi tha. but coding i guess ab suru hoga nana ji ke bhoj ke baad, so stay tune. good night
            
-           It was a good day
+           It was a good day, aaj invite krne gye
           
           </li>
                 

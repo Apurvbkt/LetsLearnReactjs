@@ -34,6 +34,8 @@
           also it's an amazing day, mama ji brought new phone, and that is one plus 9pro. It was my fav phone in 2021, but unfortunatly mere kismat me nahi tha. but coding i guess ab suru hoga nana ji ke bhoj ke baad, so stay tune. good night
            
            It was a good day, aaj invite krne gye, to bahut thak gye, and sahi rha din, pdhai suru krnge, aaj ke liye etna he. good night
+           
+           aaj sara invitation complete hogya
           
           </li>
                 

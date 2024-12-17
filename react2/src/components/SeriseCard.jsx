@@ -35,7 +35,7 @@
            
            It was a good day, aaj invite krne gye, to bahut thak gye, and sahi rha din, pdhai suru krnge, aaj ke liye etna he. good night
            
-           aaj sara invitation complete hogya, bas kuch din or uske baad phir pdhai . avi krlu thoda time pass, uske baad dsa bhi suru krunga sath me, or apne fitness pe bhi dhiyan dunga. 
+           aaj sara invitation complete hogya, bas kuch din or uske baad phir pdhai . avi krlu thoda time pass, uske baad dsa bhi suru krunga sath me, or apne fitness pe bhi dhiyan dunga. baaki kal milte hai, manhara me 
           
           </li>
                 

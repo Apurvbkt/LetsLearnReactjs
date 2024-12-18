@@ -38,7 +38,7 @@
            aaj sara invitation complete hogya, bas kuch din or uske baad phir pdhai . avi krlu thoda time pass, uske baad dsa bhi suru krunga sath me, or apne fitness pe bhi dhiyan dunga. baaki kal milte hai, manhara me 
           bye, good night
           
-          aaj ka din normal tha. today i went to the gym, and also
+          aaj ka din normal tha. today i went to the gym, and also had a great day
           </li>
                 
               )

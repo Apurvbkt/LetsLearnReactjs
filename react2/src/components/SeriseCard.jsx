@@ -41,7 +41,7 @@
           aaj ka din normal tha. today i went to the gym, and also had a great day, wish kal bhi thik ho and sab ache se ho jaye, good night
           
           hey github, aaj mai ghr aaya, and you know what, talab gye the nahane ke liye, sach bolu to ek waisa talab me gye the, jaha jana mana tha, and litery I feel something aajab. aisa lga jaise kisi ka presence hai woha. 
-          Ek min ke liye lga ki pta ni kon hai, kon muje aawaj diya, aisa lga ki koi piche se bula rha tha. but thoda der baad dikha ki koi buddhi hai, jo khet me kaam krri hai, then muje chain me chain me aaya. uske baad bhai log ne fish pakda, and ek water lily laya, jaha we saw snake
+          Ek min ke liye lga ki pta ni kon hai, kon muje aawaj diya, aisa lga ki koi piche se bula rha tha. but thoda der baad dikha ki koi buddhi hai, jo khet me kaam krri hai, then muje chain me chain me aaya. uske baad bhai log ne fish pakda, and ek water lily laya, jaha we saw snake, thoda adventur wla day tha, but it was fun, baaki kal ka update kal krunga, so bye, good night
           </li>
                 
               )

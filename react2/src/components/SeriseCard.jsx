@@ -40,7 +40,7 @@
           
           aaj ka din normal tha. today i went to the gym, and also had a great day, wish kal bhi thik ho and sab ache se ho jaye, good night
           
-          hey github, 
+          hey github, aaj mai ghr aaya, and you know what, talab gye the nahane ke liye
           </li>
                 
               )

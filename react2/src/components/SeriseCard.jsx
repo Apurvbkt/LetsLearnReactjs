@@ -43,7 +43,7 @@
           hey github, aaj mai ghr aaya, and you know what, talab gye the nahane ke liye, sach bolu to ek waisa talab me gye the, jaha jana mana tha, and litery I feel something aajab. aisa lga jaise kisi ka presence hai woha. 
           Ek min ke liye lga ki pta ni kon hai, kon muje aawaj diya, aisa lga ki koi piche se bula rha tha. but thoda der baad dikha ki koi buddhi hai, jo khet me kaam krri hai, then muje chain me chain me aaya. uske baad bhai log ne fish pakda, and ek water lily laya, jaha we saw snake, thoda adventur wla day tha, but it was fun, baaki kal ka update kal krunga, so bye, good night.
           
-          hey, github it was a good day, aaj ghat tha. aaj sab proper sab function hua  
+          hey, github it was a good day, aaj ghat tha. aaj sab proper sab function hua , ab bas kal ka din uske baad sab end
           </li>
                 
               )

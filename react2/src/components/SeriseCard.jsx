@@ -45,7 +45,7 @@
           
           hey, github it was a good day, aaj ghat tha. aaj sab proper sab function hua , ab bas kal ka din uske baad sab end. uske baad back to track.
           
-          it was a great day, had a wonderful 
+          it was a great day, had a wonderful
           
           </li>
                 

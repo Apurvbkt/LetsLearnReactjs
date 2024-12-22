@@ -47,7 +47,7 @@
           
           it was a great day, had a wonderful, nad had lots of blast
           
-          aaj finally sab kuch end hua, aaj sab mama ghr aaya tha
+          aaj finally sab kuch end hua, aaj sab mama ghr aaya tha, and kal se ab se kam kaj and pdhai chalu 
           
           </li>
                 

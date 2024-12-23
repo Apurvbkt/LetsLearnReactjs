@@ -49,7 +49,7 @@
           
           aaj finally sab kuch end hua, aaj sab mama ghr aaya tha, and kal se ab se kam kaj and pdhai chalu , good night
           
-          hey, it&apos;s monday, and had a cozy day. dont know why, pdahne ka man ni krra. jldi se khud ko track pe lana hoga
+          hey, it&apos;s monday, and had a cozy day. dont know why, pdahne ka man ni krra. jldi se khud ko track pe lana hoga. warna wohi zero pe aajayunga
           
           </li>
                 

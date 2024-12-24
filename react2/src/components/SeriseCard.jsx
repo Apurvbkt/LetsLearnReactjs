@@ -52,7 +52,7 @@
           hey, it&apos;s monday, and had a cozy day. dont know why, pdahne ka man ni krra. jldi se khud ko track pe lana hoga. warna wohi zero pe aajayunga. 
           baaki kal mai kosis krunga waps track pe aane ke liye, till then bye good night
           
-          tuesday
+          tuesday, aaj calories thik khaye
           </li>
                 
               )

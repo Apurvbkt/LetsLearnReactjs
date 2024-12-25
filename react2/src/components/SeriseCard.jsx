@@ -55,8 +55,7 @@
           tuesday, aaj calories thik khaye, ab weight loss krunga pehel, uske baad kuch or 
           bye good night
           
-          its wednesday today, had a good day, sayad diet bhi controll hua, and ghr ka kam bhi suru hua, lets see kb tkk hota hai complete . see you tommoero
-          
+          its wednesday today, had a good day, sayad diet bhi controll hua, and ghr ka kam bhi suru hua, lets see kb tkk hota hai complete . see you tommoero, good night
           </li>
                 
               )

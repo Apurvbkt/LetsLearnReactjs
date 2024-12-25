@@ -55,7 +55,7 @@
           tuesday, aaj calories thik khaye, ab weight loss krunga pehel, uske baad kuch or 
           bye good night
           
-          its wednesday today, 
+          its wednesday today, had a good day, sayad diet bhi controll hua
           
           </li>
                 

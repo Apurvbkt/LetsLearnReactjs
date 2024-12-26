@@ -57,7 +57,7 @@
           
           its wednesday today, had a good day, sayad diet bhi controll hua, and ghr ka kam bhi suru hua, lets see kb tkk hota hai complete . see you tommoero, good night
           
-          day wnt good, aaj shwarma khaye, med laye dida ka, thats all, chalo ab sone 
+          day wnt good, aaj shwarma khaye, med laye dida ka, thats all, chalo ab sone good night
           </li>
                 
               )

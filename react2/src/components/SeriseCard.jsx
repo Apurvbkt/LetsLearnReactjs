@@ -59,7 +59,7 @@
           
           day wnt good, aaj shwarma khaye, med laye dida ka, thats all, chalo ab sone good night
           
-          hey github, 
+          hey github, it was a nice day
           </li>
                 
               )

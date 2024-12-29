@@ -64,7 +64,7 @@
           hey github, day went fabulos, aaj mai bete se mila, he is such a good and cute boy, mera dil le gya, and hn ye is lil lalchi. maine gaal daba ke rula diya. mai phir se milne jayunga usse for sure. good night
           
           
-          hey github, aaj sunday, wnt to picnic 
+          hey github, aaj sunday, wnt to picnic and did swim
           </li>
                 
               )

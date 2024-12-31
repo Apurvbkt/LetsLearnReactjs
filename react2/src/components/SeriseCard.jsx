@@ -69,7 +69,7 @@
           
           hello, aaj to miss hojata push krna, finally last time , pe yaad aaya and push krdiye
           
-          hey github, last day of the year. new year resolution lana padega. and padhai ache se krna padega
+          hey github, last day of the year. new year resolution lana padega. and padhai ache se krna padega, let's do it 
           </li>
                 
               )

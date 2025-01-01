@@ -72,7 +72,7 @@
           hey github, last day of the year. new year resolution lana padega. and padhai ache se krna padega, let's do it . and begiing 2025 with blast.  thanks for being wiith me, nxt year mai or improve krunga and market me tehalka machaunga. bye good night
           
           happy new year github , aaj gye the banja ke bday pe
-        . it was fun. sbse mile hii hello, sab aaye the maja aaya. 1st day acha gya. i hope aaj muje thoda race dekhne ko mila , may be ab life me aise he race ho or sbse aage badne ka junun mje sbse aage leke jayega 
+        . it was fun. sbse mile hii hello, sab aaye the maja aaya. 1st day acha gya. i hope aaj muje thoda race dekhne ko mila , may be ab life me aise he race ho or sbse aage badne ka junun mje sbse aage leke jayega . hoping for best good night
           </li>
                 
               )

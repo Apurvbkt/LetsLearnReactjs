@@ -74,7 +74,7 @@
           happy new year github , aaj gye the banja ke bday pe
         . it was fun. sbse mile hii hello, sab aaye the maja aaya. 1st day acha gya. i hope aaj muje thoda race dekhne ko mila , may be ab life me aise he race ho or sbse aage badne ka junun mje sbse aage leke jayega . hoping for best good night
         
-        push 1, aaj gym krke clories dificiet ni krpaya. push 3
+        push 1, aaj gym krke clories dificiet ni krpaya. push 3, 
           </li>
                 
               )

@@ -76,7 +76,7 @@
         
         push 1, aaj gym krke clories dificiet ni krpaya. push 3, good night
         
-        hey, aaj bhi calories deficit me tha and u know what, acha gya ab tkk
+        hey, aaj bhi calories deficit me tha and u know what, acha gya ab tkk, hopefully sab aise he chalte jayega
           </li>
                 
               )

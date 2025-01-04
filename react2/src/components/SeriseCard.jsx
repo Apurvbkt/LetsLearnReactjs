@@ -78,7 +78,7 @@
         
         hey, aaj bhi calories deficit me tha and u know what, acha gya ab tkk, hopefully sab aise he chalte jayega, see u , kal tb tak ke liye bye, good night
         
-        start a good day,  
+        start a good day, gum ni gye ab tkk, sayd doper me jaynge gym 
           </li>
                 
               )

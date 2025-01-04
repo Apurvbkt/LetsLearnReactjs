@@ -78,7 +78,7 @@
         
         hey, aaj bhi calories deficit me tha and u know what, acha gya ab tkk, hopefully sab aise he chalte jayega, see u , kal tb tak ke liye bye, good night
         
-        start a good day, gum ni gye ab tkk, sayd doper me jaynge gym , baaki all set, 50% se jyada kam hogya 
+        start a good day, gum ni gye ab tkk, sayd doper me jaynge gym , baaki all set, 50% se jyada kam hogya ghr ka, ab bas mere room ka kam baaki hai, and thinking DSA suru krdu
           </li>
                 
               )
